@@ -1,0 +1,13 @@
+{
+  "name": "b2bdvc-webscrape",
+  "version": "1.0.0",
+  "description": "webscrape",
+  "main": "scraping.js",
+  "author": "Iam",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "latest",
+    "request": "latest",
+    "json2csv": "latest"
+  }
+}
